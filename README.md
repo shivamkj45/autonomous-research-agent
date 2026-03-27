@@ -48,4 +48,8 @@ Build an AI system that can automatically research a topic and generate a struct
 ## 🚀 Conclusion
 This project demonstrates how AI can automate research tasks using LangChain tools and LLMs.
 
----
+---Screenshot 2026-03-27 211315
+## 📸 Sample Output Screenshot
+
+![Output Screenshot](Screenshot 2026-03-27 211315.png)
+
